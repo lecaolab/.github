@@ -21,6 +21,8 @@ What I look for is a strong quantitative background and an interest in being use
 
 We also look after each other. The lab runs regular internal seminars, we meet on retreat each year, and people here help each other without being asked — something I take as seriously as I take the science.
 
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**[View our current people and alumni →](PEOPLE.md)**
+
 
 ### Repositories
 
