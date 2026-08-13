@@ -17,7 +17,7 @@ Our software is relied on by over 50,000 researchers annually. That is a respons
 
 It also comes with a commitment. If your method becomes part of the mixOmics ecosystem, we expect you to stay involved in maintaining it after you leave the lab. The thing you built remains yours to look after. If you want your work used, that is the deal. 
 
-What I look for is a strong quantitative background and an interest in being useful beyond your own field. In return we put more into our people than most groups can. Our alumni have gone on to research positions internationally and senior roles in industry. . 
+What I look for is a strong quantitative background and an interest in being useful beyond your own field. In return we put more into our people than most groups can. Our alumni have gone on to research positions internationally and senior roles in industry.
 
 We also look after each other. The lab runs regular internal seminars, we meet on retreat each year, and people here help each other without being asked — something I take as seriously as I take the science.
 
